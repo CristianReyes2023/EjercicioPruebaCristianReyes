@@ -23,6 +23,7 @@ if __name__ == '__main__':
             citas.loadInfoCitas()
             citas.MainMenu()
         elif opcion==2:
+            print("Gracias por usar nuestro servidor para el Manejo de Citas")
             isAddPrincipal=False
         else:
             print('Opcion no valida,ingresa nueva opcion')
