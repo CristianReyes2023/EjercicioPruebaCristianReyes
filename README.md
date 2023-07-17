@@ -1,2 +1,2 @@
 # EjercicioPruebaCristianReyes
-Prueba Python
+Cristian Leonardo Reyes Moreno
